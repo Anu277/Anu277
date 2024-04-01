@@ -1,5 +1,5 @@
 # 💫 About Me:
-![C]((https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+<p align="center"><img width=60% src="(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"></p>
 
 🔭 I’m currently working on REACT.JS<br>👯 I’m looking to collaborate on MERN stack projects.<br>🤝 I’m looking for help with backend development.<br>🌱 I’m currently learning backend web development with MERN stack.<br>💬 Ask me about frontend development and DSA.<br>📫 How to reach me anub0709@gmail.com<br>👨‍💻 All of my projects are available at anu27.tech<br>⚡ Fun fact: Interested in Photography and editing (videos too 🌚).
 
