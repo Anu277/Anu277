@@ -1,7 +1,9 @@
 # 💫 About Me:
+![C]((https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+
 🔭 I’m currently working on REACT.JS<br>👯 I’m looking to collaborate on MERN stack projects.<br>🤝 I’m looking for help with backend development.<br>🌱 I’m currently learning backend web development with MERN stack.<br>💬 Ask me about frontend development and DSA.<br>📫 How to reach me anub0709@gmail.com<br>👨‍💻 All of my projects are available at anu27.tech<br>⚡ Fun fact: Interested in Photography and editing (videos too 🌚).
 
-(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100069463692242) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reincarnate_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anurag-b-285430217/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/PieEnvironmental6687/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Anu_b_27) 
