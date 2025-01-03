@@ -1,7 +1,7 @@
 # 💫 About Me:
 <p align="left"><img width=50% src="https://i.imgur.com/2iWhF8S.gif"></p>
 
-🔭 I’m currently working on MERN stack and  ML<br>👯 I’m looking to collaborate on MERN stack projects.<br>🤝 I’m looking for help with backend development.<br>🌱 I’m currently learning backend web development with MERN stack.<br>💬 Ask me about frontend development and DSA.<br>📫 How to reach me anub0709@gmail.com<br>👨‍💻 All of my projects are available at anu27.co<br>⚡ Fun fact: Interested in Photography and editing (videos too 🌚).
+🔭 I’m currently working on MERN stack and  ML<br>👯 I’m looking to collaborate on MERN stack projects.<br>🤝 I’m looking for help with backend development.<br>🌱 I’m currently learning backend web development with MERN stack.<br>💬 Ask me about frontend development and DSA.<br>📫 How to reach me anub0709@gmail.com<br>👨‍💻 All of my projects are available at hhtps://anu27.co<br>⚡ Fun fact: Interested in Photography and editing (videos too 🌚).
 
 
 
